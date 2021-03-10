@@ -1,4 +1,4 @@
-::pip install -r requirements.txt
+pip install -r requirements.txt
 cd src
 python -m pymakeself %cd% "FabricInstaller" FabricSetup.py
 cd ..
