@@ -2,7 +2,7 @@
 A Script that will install fabric and mods you specify to a person's computer automatically
 
 # Usage
-- Run `pip install -r requirements.txt`
-- place `fabric-installer-x.x.x.jar` in the root directory
-- place the fabric mods you want installed in the `mods/` directory
-- run `build.py` (in progress)
+- Place `fabric-installer-x.x.x.jar`(perferably the latest) in the `src/` directory
+- Place mods you want included in the `src/mods/` directory
+- Run `build.bat`
+- Distribute the resulting `FabricInstaller.exe` to your fabric server clients
