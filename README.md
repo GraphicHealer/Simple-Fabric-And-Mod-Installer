@@ -1,5 +1,5 @@
 # Simple Fabric And Mod Installer
-A Script that will install fabric and mods you specify to a person's computer automatically
+A Script that generates a simple installer to allow non-tech people to use a fabric modded server
 
 # Requirements
 - Python 3
