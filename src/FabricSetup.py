@@ -4,7 +4,7 @@ import json
 import shutil
 
 MCVersion = '1.16.5'
-serverName = 'CSET-MC'
+serverName = 'MyServer'
 path = os.getcwd()
 
 def folder_select():
