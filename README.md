@@ -1,4 +1,4 @@
-# Simple Fabric And Mod Installer
+# Simple Fabric+Mods Installer
 A Script that generates a simple installer to allow non-tech people to use a fabric modded server
 
 # Requirements
