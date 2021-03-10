@@ -8,5 +8,6 @@ A Script that generates a simple installer to allow non-tech people to use a fab
 # Usage
 - Place `fabric-installer-x.x.x.jar`(perferably the latest) in the `src/` directory
 - Place mods you want included in the `src/mods/` directory
+- Edit `src/FabricSetup.py` and change the `serverName` and `MCVersion` to reflect your server
 - Run `build.bat`
 - Distribute the resulting `FabricInstaller.exe` to your fabric server clients
